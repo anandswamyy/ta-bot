@@ -1,1 +1,1 @@
-# ta-bot
+# A simple technical analysis stock bot that uses golden/death crosses, bearish/bullish engulfing candles, and support and resistance bands. A Discord webhook has been incorporated, and the code is continuing to be developed and furthered.
